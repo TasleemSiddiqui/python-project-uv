@@ -1,0 +1,16 @@
+[
+    {
+        "title": "stranger",
+        "author": "tasleem",
+        "year": "2009",
+        "genre": "novel",
+        "read": true
+    },
+    {
+        "title": "kahani",
+        "author": "kashan",
+        "year": "2002",
+        "genre": "story",
+        "read": false
+    }
+]
